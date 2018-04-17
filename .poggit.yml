@@ -1,0 +1,9 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/brexmania123/CustomAlerts
+branches:
+- master
+projects:
+  CustomAlertsExample:
+    path: CustomAlertsExample/
+  CustomAlerts:
+    path: ""
+...
